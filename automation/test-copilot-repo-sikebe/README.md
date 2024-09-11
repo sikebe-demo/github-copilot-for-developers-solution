@@ -1,1 +1,0 @@
-# test-copilot-repo-sikebe

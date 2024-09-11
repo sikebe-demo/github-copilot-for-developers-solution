@@ -1,4 +1,9 @@
-POST /api/insert_cat/ HTTP/1.1
+GET /api/cats/ HTTP/1.1
+Host: localhost:8000
+
+###
+
+POST /api/cats/insert/ HTTP/1.1
 Host: localhost:8000
 Content-Type: application/json
 
